@@ -13,7 +13,7 @@ blockchain2022 教學
   <img src="https://mmbiz.qpic.cn/mmbiz_jpg/1BaaTxPXtafZUGiaO8wVNAQticSvylqznEMvdRZaNHTvHAoI0KxcWwbv7DiamiavhO9jNBzv7e7fgAoLCMfJ9c1V4A/640?wx_fmt=jpeg" width="45%" height="auto" style="float: left;" title="2 錢包匯入 blockchain 2022 教學" alt="2 錢包匯入 blockchain 2022 教學"/>
 
 
-# 3 metamask add  SomethingCapability 
+# 3 錢包登錄 SomethingCapability 
 
   <img src="https://aivia.io/blog/en/content/images/2020/02/usdt-tether-metamask-4.png" width="45%" height="auto" style="float: left;" title="metamask add  SomethingCapability " alt="metamask add  SomethingCapability "/>
 
