@@ -5,7 +5,7 @@
 
 1 NFT是什麼
   
-  1.1 區塊鏈是什麼
+  1.1 [區塊鏈是什麼](https://youtu.be/u0paxAJVrNc)
   
   1.2 以太坊是什麼
   
