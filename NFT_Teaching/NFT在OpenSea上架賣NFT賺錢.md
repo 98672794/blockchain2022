@@ -6,7 +6,9 @@
 1 NFT是什麼
   
   
-  1.1  [![區塊鏈是什麼](https://img.youtube.com/vi/u0paxAJVrNc/0.jpg)](https://www.youtube.com/watch?v=u0paxAJVrNc?t=204)
+  1.1  區塊鏈是什麼
+  
+   [![區塊鏈是什麼](https://img.youtube.com/vi/u0paxAJVrNc/0.jpg)](https://www.youtube.com/watch?v=u0paxAJVrNc?t=204)
   
   1.2 以太坊是什麼
   
