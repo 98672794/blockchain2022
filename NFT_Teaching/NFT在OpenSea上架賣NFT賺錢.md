@@ -5,7 +5,8 @@
 
 1 NFT是什麼
   
-  1.1 [區塊鏈是什麼](https://youtu.be/u0paxAJVrNc)
+  
+  1.1  [![區塊鏈是什麼](https://img.youtube.com/vi/u0paxAJVrNc?t=204/0.jpg)](https://www.youtube.com/watch?v=u0paxAJVrNc?t=204)
   
   1.2 以太坊是什麼
   
@@ -28,6 +29,8 @@
 3 NFT OpenSea上架教學
 
   3.1 誰能製作NFT
+  
+      現時NFT 銷售平台的發展已相當成熟，任何人也可將個人製作的圖片、相片、音樂、影片、3D 模型等創作，轉換成NFT 在網站上發售。
 
   3.2 NFT作品製作教學步驟
   
