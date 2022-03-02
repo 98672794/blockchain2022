@@ -75,6 +75,20 @@
     Binance在加密貨幣領域的擁有突出的地位，Binance NFT的目標是成為全球NFT交易平台的領導者，並集結全球各地的加密貨幣愛好者/製作者、NFT藝術創作者、收藏家和音樂家等。
     除此之外，Binance NFT為其用戶保證最低的費用，這將降低創作者和收藏者在其市場上交易NFT藝術品的門檻，從而創造一個更公平的平台系統。
 
+-
+
+### Rarible
+
+  ![opensea](https://prjewel.com/wp-content/uploads/2022/02/rarible%E4%BB%8B%E7%B4%B9.jpg)
+
+
+    Rarible是類似OpenSea的大型平台。 
+    各種各樣的NFT產品、藝術品、Videos、收藏品和音樂都可以在這個平台上進行購買、出售或創作。 
+    但與OpenSea不同的是，你需要使用該平台自己的加密貨幣Rarible (RARI)在平台上進行買賣。
+    Rarible是基於以太坊區塊鏈構建的。
+
+    該公司已與一些著名公司合作。大家熟悉的軟件公司Adobe Rarible合作，提供NFT藝術家和創作者作品網絡安全保護。
+
 ---
 
 --完--
