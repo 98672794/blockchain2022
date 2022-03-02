@@ -69,7 +69,7 @@
 
 ### Binance NFT
 
-  ![opensea](https://prjewel.com/wp-content/uploads/2022/02/binance-nft-%E5%B9%B3%E5%8F%B0.jpg)
+  ![Binance](https://prjewel.com/wp-content/uploads/2022/02/binance-nft-%E5%B9%B3%E5%8F%B0.jpg)
 
     在2021年4月，成熟的加密貨幣交易所Binance宣布將推出自己的NFT平台 Binance NFT。
     Binance在加密貨幣領域的擁有突出的地位，Binance NFT的目標是成為全球NFT交易平台的領導者，並集結全球各地的加密貨幣愛好者/製作者、NFT藝術創作者、收藏家和音樂家等。
@@ -79,7 +79,7 @@
 
 ### Rarible
 
-  ![opensea](https://prjewel.com/wp-content/uploads/2022/02/rarible%E4%BB%8B%E7%B4%B9.jpg)
+  ![Rarible](https://prjewel.com/wp-content/uploads/2022/02/rarible%E4%BB%8B%E7%B4%B9.jpg)
 
 
     Rarible是類似OpenSea的大型平台。 
@@ -89,6 +89,35 @@
 
     該公司已與一些著名公司合作。大家熟悉的軟件公司Adobe Rarible合作，提供NFT藝術家和創作者作品網絡安全保護。
 
+-
+
+### SuperRare
+
+  ![SuperRare](https://prjewel.com/wp-content/uploads/2022/02/super-rare%E4%BB%8B%E7%B4%B9.jpg)
+  
+    SuperRare是與Rarible類似的NFT平台，但不同的是Super Rare買家可以使用Ethereum進行購買。該網站產品包括藝術品、視頻和3D圖像。
+
+    SuperRare最近發布了自己的同名加密貨幣（以太坊區塊鏈）。 SuperRare NFT 也可以在OpenSea上買賣。
+
+-
+
+### KnownOrigin
+
+  ![KnownOrigin](https://prjewel.com/wp-content/uploads/2022/02/knownorigin.jpg)
+ 
+    KnownOrigin團隊由聯合創始人David Moore, Andy Gary和James Morgan組成。
+
+    KnownOrigin自2018年4月開始運營，它是一個運行在區塊鏈技術上的藝術平台，允許畫家，藝術家創造稀有的數位藝術，並在其平台上出售。
+
+    KnownOrigin 官網唯一接受的貨幣是以太幣(ETH)。 您不能使用其他加密貨幣(如比特幣)或法定貨幣(如美元、英鎊、澳元等)。你需要從加密貨幣交易所購買以太幣，並將其轉移到數字錢包，如MetaMask。 然後，您就可以將你的錢包連接到KnownOrigin，在該平台上進行買賣。
+
+    你可以在KnownOrigin市場上找到以下幾種nft產品類型:
+
+    圖像 – 靜態圖像，包括數字藝術品和照片。
+    GIFs（動態圖）- 動態圖是一種非常流行的NFT類型，它由一遍又一遍回放的短片或動畫組成。
+    視頻 – 在平台上顯示的視頻可以是動畫或拍攝的。 大多數都伴隨著聲音。
+
+ 
 ---
 
 --完--
