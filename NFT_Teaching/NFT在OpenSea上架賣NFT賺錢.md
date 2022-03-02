@@ -59,11 +59,21 @@
 
 ### OpenSea
 
-  [![opensea](https://prjewel.com/wp-content/uploads/2022/02/opensea-%E5%AE%98%E7%B6%B2.jpg)]
+  ![opensea](https://prjewel.com/wp-content/uploads/2022/02/opensea-%E5%AE%98%E7%B6%B2.jpg)
+  
     OpenSea是NFT產品銷售的Top。OpenSea平台上有各種各樣的新數位產品，用戶可以免費註冊和瀏覽這些產品。 
     如果你想製作自己的NFT，他們的流程非常容易。
     OpenSea這個平台官網還接受超過150多種不同的支付貨幣，是非常適合新手的一個平台。
 
+-
+
+### Binance NFT
+
+  ![opensea](https://prjewel.com/wp-content/uploads/2022/02/binance-nft-%E5%B9%B3%E5%8F%B0.jpg)
+
+    在2021年4月，成熟的加密貨幣交易所Binance宣布將推出自己的NFT平台 Binance NFT。
+    Binance在加密貨幣領域的擁有突出的地位，Binance NFT的目標是成為全球NFT交易平台的領導者，並集結全球各地的加密貨幣愛好者/製作者、NFT藝術創作者、收藏家和音樂家等。
+    除此之外，Binance NFT為其用戶保證最低的費用，這將降低創作者和收藏者在其市場上交易NFT藝術品的門檻，從而創造一個更公平的平台系統。
 
 ---
 
