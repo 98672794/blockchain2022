@@ -20,6 +20,8 @@
    0:45 - 1:15
   
   
+   [![NFT是什麼](https://img.youtube.com/vi/h7YLjnwgLEA/0.jpg)](https://youtu.be/h7YLjnwgLEA?t=70)
+  
   1.4 OpenSea是什麼介紹
   
       - 不同平台的收貴比率
