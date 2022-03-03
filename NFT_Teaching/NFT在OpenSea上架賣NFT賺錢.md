@@ -54,6 +54,10 @@
   
   3.4 OpenSea平台購買NFT教學
   
+  
+  
+  參考 : [NFT作品製作教學》5分鐘上傳自己的NFT作品](https://yiwu.com.tw/nft-works/)|[如何製作nft](https://vocus.cc/article/621daff6fd897800016418d1)
+  
 ---
 
 4 如何將加密貨幣轉換為我的當地貨幣
