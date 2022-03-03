@@ -58,7 +58,8 @@
     GIFs（動態圖）- 動態圖是一種非常流行的NFT類型，它由一遍又一遍回放的短片或動畫組成。
     視頻 – 在平台上顯示的視頻可以是動畫或拍攝的。 大多數都伴隨著聲音。
 
- 
----
+
+
+--完--
 
 [NFT在OpenSea上架賣NFT賺錢](https://github.com/98672794/blockchain2022/blob/main/NFT_Teaching/NFT%E5%9C%A8OpenSea%E4%B8%8A%E6%9E%B6%E8%B3%A3NFT%E8%B3%BA%E9%8C%A2.md)
