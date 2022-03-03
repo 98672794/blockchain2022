@@ -20,7 +20,7 @@
    0:45 - 1:15
   
   
-   [![NFT是什麼](https://img.youtube.com/vi/h7YLjnwgLEA/0.jpg)](https://youtu.be/h7YLjnwgLEA?t=70)
+   
   
   1.4 OpenSea是什麼介紹
   
@@ -47,6 +47,9 @@
   
   [![3.2.1 如何把圖片變成NFT，再把NFT上架Opensea及Mintable變賣賺大錢](https://img.youtube.com/vi/_okapEHm--U/0.jpg)](https://youtu.be/_okapEHm--U?t=138)
   2:18 - 7:29
+  
+  [![NFT是什麼](https://img.youtube.com/vi/h7YLjnwgLEA/0.jpg)](https://youtu.be/h7YLjnwgLEA?t=70)
+  
   
   3.3 NFT作品上架出售
   
