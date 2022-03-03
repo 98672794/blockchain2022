@@ -43,6 +43,9 @@
 
   3.2 NFT作品製作教學步驟
   
+  [![3.2.1 如何把圖片變成NFT，再把NFT上架Opensea及Mintable變賣賺大錢](https://img.youtube.com/vi/_okapEHm--U/0.jpg)](https://youtu.be/_okapEHm--U?t=138)
+  2:18 - 7:29
+  
   3.3 NFT作品上架出售
   
   3.4 OpenSea平台購買NFT教學
