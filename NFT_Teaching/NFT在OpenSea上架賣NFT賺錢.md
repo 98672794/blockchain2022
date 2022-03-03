@@ -61,6 +61,8 @@
 
   ![opensea](https://prjewel.com/wp-content/uploads/2022/02/opensea-%E5%AE%98%E7%B6%B2.jpg)
   
+  <img src="https://prjewel.com/wp-content/uploads/2022/02/opensea-%E5%AE%98%E7%B6%B2.jpg" alt="a" width="200"/>
+  
     OpenSea是NFT產品銷售的Top。OpenSea平台上有各種各樣的新數位產品，用戶可以免費註冊和瀏覽這些產品。 
     如果你想製作自己的NFT，他們的流程非常容易。
     OpenSea這個平台官網還接受超過150多種不同的支付貨幣，是非常適合新手的一個平台。
