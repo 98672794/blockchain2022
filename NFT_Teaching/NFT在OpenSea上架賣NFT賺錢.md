@@ -54,6 +54,7 @@
   
   3.4 OpenSea平台購買NFT教學
   
+   [![NFT作品上架出售](https://img.youtube.com/vi/1wV9V88pYQU/0.jpg)](https://youtu.be/1wV9V88pYQU)
   
   
   參考 : [NFT作品製作教學》5分鐘上傳自己的NFT作品](https://yiwu.com.tw/nft-works/)|[如何製作nft](https://vocus.cc/article/621daff6fd897800016418d1)
