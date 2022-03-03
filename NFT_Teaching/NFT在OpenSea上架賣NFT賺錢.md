@@ -3,14 +3,14 @@
 # NFT在OpenSea上架賣NFT賺錢.md
 
 
-## 1 NFT是什麼
+1 NFT是什麼
   
   
   ### 1.1  區塊鏈是什麼
   
    [![區塊鏈是什麼](https://img.youtube.com/vi/u0paxAJVrNc/0.jpg)](https://www.youtube.com/watch?v=u0paxAJVrNc?t=204)
   
-  ### 1.2 以太坊是什麼
+  1.2 以太坊是什麼
   
   
   ### 1.3 NFT是什麼
@@ -19,16 +19,16 @@
    0:45 - 1:15
   
   
-  ### 1.4 OpenSea是什麼介紹
+  1.4 OpenSea是什麼介紹
   
       - 不同平台的收貴比率
 
 ---
 
 
-## 2 手機/電腦 連接 Ethereum Wallet
+2 手機/電腦 連接 Ethereum Wallet
 
-  ### 2.1 手機Wallet
+  2.1 手機Wallet
   
   2.2 電腦Wallet
 
@@ -48,7 +48,7 @@
   
 ---
 
-## 4 如何將加密貨幣轉換為我的當地貨幣
+4 如何將加密貨幣轉換為我的當地貨幣
   
   4.1 將加密貨幣提取到交易所
   
