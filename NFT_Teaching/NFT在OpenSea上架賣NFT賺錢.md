@@ -57,7 +57,7 @@
 
 ## 6 市面其中5個NFT平台:
 
-### OpenSea
+### [OpenSea](https://opensea.io/)
 
   ![opensea](https://prjewel.com/wp-content/uploads/2022/02/opensea-%E5%AE%98%E7%B6%B2.jpg)
   
@@ -67,7 +67,7 @@
 
 -
 
-### Binance NFT
+### [Binance NFT](https://www.binance.com/en/nft/home)
 
   ![Binance](https://prjewel.com/wp-content/uploads/2022/02/binance-nft-%E5%B9%B3%E5%8F%B0.jpg)
 
@@ -77,7 +77,7 @@
 
 -
 
-### Rarible
+### [Rarible](https://rarible.com/)
 
   ![Rarible](https://prjewel.com/wp-content/uploads/2022/02/rarible%E4%BB%8B%E7%B4%B9.jpg)
 
@@ -91,7 +91,7 @@
 
 -
 
-### SuperRare
+### [SuperRare](https://superrare.com/)
 
   ![SuperRare](https://prjewel.com/wp-content/uploads/2022/02/super-rare%E4%BB%8B%E7%B4%B9.jpg)
   
@@ -101,7 +101,7 @@
 
 -
 
-### KnownOrigin
+### [KnownOrigin](https://knownorigin.io/)
 
   ![KnownOrigin](https://prjewel.com/wp-content/uploads/2022/02/knownorigin.jpg)
  
