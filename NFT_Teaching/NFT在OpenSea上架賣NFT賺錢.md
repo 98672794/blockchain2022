@@ -2,11 +2,7 @@
 
 # NFT在OpenSea上架賣NFT賺錢.md
 
- - [5 各地法律事件](https://github.com/98672794/blockchain2022/blob/main/NFT_Teaching/5%E5%90%84%E5%9C%B0%E6%B3%95%E5%BE%8B%E4%BA%8B%E4%BB%B6.md)
- 
- - [6 市面其中5個NFT平台](https://github.com/98672794/blockchain2022/blob/main/NFT_Teaching/6%E5%B8%82%E9%9D%A2%E5%85%B6%E4%B8%AD5%E5%80%8BNFT%E5%B9%B3%E5%8F%B0.md)
 
----
 
 1 NFT是什麼
   
