@@ -16,6 +16,7 @@
   ### 1.3 NFT是什麼
   
    [![NFT是什麼](https://img.youtube.com/vi/ZYou8GorD4M/0.jpg)](https://youtu.be/ZYou8GorD4M?t=45)
+   0:45 - 1:15
   
   
   ### 1.4 OpenSea是什麼介紹
