@@ -22,18 +22,18 @@
   
    
   
-  1.4 OpenSea是什麼介紹
+  ### 1.4 OpenSea是什麼介紹
   
       - 不同平台的收貴比率
 
 ---
 
 
-2 手機/電腦 連接 Ethereum Wallet
+##2 手機/電腦 連接 Ethereum Wallet
 
-  2.1 手機Wallet
+  ### 2.1 手機Wallet
   
-  2.2 電腦Wallet
+  ### 2.2 電腦Wallet
 
 ---
 
@@ -43,29 +43,29 @@
   
       現時NFT 銷售平台的發展已相當成熟，任何人也可將個人製作的圖片、相片、音樂、影片、3D 模型等創作，轉換成NFT 在網站上發售。
 
-  3.2 NFT作品製作教學步驟
+  ### 3.2 NFT作品製作教學步驟
   
    [![3.2.1 如何把圖片變成NFT，再把NFT上架Opensea及Mintable變賣賺大錢](https://img.youtube.com/vi/_okapEHm--U/0.jpg)](https://youtu.be/_okapEHm--U?t=138)
   2:18 - 7:29
   
-  3.3 NFT作品上架出售
+  ### 3.3 NFT作品上架出售
   
    [![NFT作品上架出售](https://img.youtube.com/vi/h7YLjnwgLEA/0.jpg)](https://youtu.be/h7YLjnwgLEA?t=70)
   
-  3.4 OpenSea平台購買NFT教學
+  ### 3.4 OpenSea平台購買NFT教學
   
    [![NFT作品上架出售](https://img.youtube.com/vi/1wV9V88pYQU/0.jpg)](https://youtu.be/1wV9V88pYQU)
   
   
-  參考 : [NFT作品製作教學》5分鐘上傳自己的NFT作品](https://yiwu.com.tw/nft-works/)|[如何製作nft](https://vocus.cc/article/621daff6fd897800016418d1)
+  ### 參考 : [NFT作品製作教學》5分鐘上傳自己的NFT作品](https://yiwu.com.tw/nft-works/)|[如何製作nft](https://vocus.cc/article/621daff6fd897800016418d1)
   
 ---
 
-4 如何將加密貨幣轉換為我的當地貨幣
+## 4 如何將加密貨幣轉換為我的當地貨幣
   
-  4.1 將加密貨幣提取到交易所
+  ### 4.1 將加密貨幣提取到交易所
   
-  4.2 香港的加密貨幣交易所
+  ### 4.2 香港的加密貨幣交易所
 
 ---
 
